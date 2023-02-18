@@ -14,6 +14,7 @@ AutoTyper is a Windows Forms application that simulates the typing of a text fil
 * Set wait time in seconds before starting the typing process
 * Initiate and stop the typing process using global hotkeys (CTRL + 0 and CTRL + 1)
 * Store the state of the speed of typing and the path of the selected file for future use
+* While typing, generate sounds of keystrokes
 ## Usage
 1. Launch the application
 2. Browse for a text file using the "Browse" button or manually type the path of the file in the "Path" field
